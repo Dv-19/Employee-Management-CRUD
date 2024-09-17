@@ -1,0 +1,4 @@
+2024-09-17 02:39:51,541 - ERROR - Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-09-17 02:39:57,632 - ERROR - Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-09-17 02:40:10,273 - INFO - Connected to the database
+2024-09-17 02:55:58,789 - INFO - Exiting the Employee Management System.
